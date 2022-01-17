@@ -1,0 +1,3 @@
+[submodule "oscillatorDB"]
+	path = oscillatorDB
+	url = https://github.com/really-lilly/oscillatorDB.git
